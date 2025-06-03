@@ -9,7 +9,7 @@ The session is presented by *James Serra*, a Senior Data & AI Specialist at Micr
 
 ## Overview
 
-This video provides a comprehensive overview of modern data warehousing concepts, architectural trends, and practical considerations. It begins with why data warehouses are needed—to offload analytical workloads from OLTP systems and provide a centralized platform for decision-making.
+This video provides a comprehensive overview of modern data warehousing concepts, architectural trends, and practical considerations. It begins with why data warehouses are needed to offload analytical workloads from OLTP systems and provide a centralized platform for decision-making.
 
 Topics covered include:
 - The purpose of a data warehouse in relation to OLTP systems
