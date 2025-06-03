@@ -2,7 +2,7 @@
 
 ## Key Takeaways
 - Offloading analytical queries from OLTP systems is a crucial benefit of a dedicated data warehouse. This point helped me connect system performance with architecture decisions.
-- The difference between Kimball and Inmon was clearer than I expected. I personally prefer the Kimball method for its practicality and business involvement.
+- The difference between Kimball and Inmon was clearer than I expected. 
 - Data lakes and lakehouses add flexibility, but they introduce complexity — especially around security, governance, and user experience.
 - I hadn’t fully understood the challenges of implementing data mesh. The idea of “data as a product” is powerful, but the organizational change it demands is non-trivial.
 
